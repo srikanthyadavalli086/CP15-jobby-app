@@ -1,0 +1,10 @@
+.bg {
+  display: flex;
+  padding: 40px;
+  justify-content: space-between;
+  color: #ffffff;
+  background-color: black;
+}
+.filters-group {
+  margin-right: 80px;
+}
